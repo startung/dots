@@ -2,6 +2,8 @@
 
 A web-based version of the classic **Dots and Boxes** paper game, styled with the [Dracula](https://draculatheme.com/) color scheme.
 
+![dots screenshot](screenshot.png)
+
 ## How to Play
 
 Dots and Boxes is a two-player game played on a grid of dots:
