@@ -1,0 +1,9 @@
+CLAUDE.md
+.env
+.env.*
+*.pem
+*.key
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
